@@ -9,7 +9,7 @@ License: [MIT](./license.md)
 ---
 
 # Содержание
-0. Для чего он нужен и с чем его едят
+0. [Для чего он нужен и с чем его едят](./informs.md)
 1. [Git init](./init.md)
 2. [Git clone [URL]](./clone.md)
 3. [Git add [файл]](./add.md)
